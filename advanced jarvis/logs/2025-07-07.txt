@@ -1,0 +1,40 @@
+[11:09:33] User: answer me
+[11:09:49] JARVIS: Alexander Graham Bell is credited with being the inventor of the telephone since his patent and demonstrations for an apparatus designed for “transmitting ...
+[11:10:00] User: previous question
+[11:10:28] User: question
+[11:10:32] JARVIS: I didn't understand that.
+[11:10:47] User: evs question
+[11:10:51] JARVIS: I didn't understand that.
+[11:11:00] User: previous question
+[11:12:38] User: answer me
+[11:12:54] JARVIS: In 1802, Humphry Davy invented the first electric light. He experimented with electricity and invented an electric battery.
+[11:13:07] User: old question
+[11:17:33] User: answer me
+[11:17:47] JARVIS: In 1802, Humphry Davy invented the first electric light. He experimented with electricity and invented an electric battery.
+[11:17:56] User: question
+[11:18:00] JARVIS: I didn't understand that.
+[11:18:10] User: old question
+[11:18:26] JARVIS: I couldn't find a similar question.
+[11:18:39] User: old question
+[11:18:48] JARVIS: I couldn't find a similar question.
+[11:23:24] User: capture photo
+[11:37:49] User: look me quiz
+[11:37:53] JARVIS: I didn't understand that.
+[11:38:06] User: aashiq me quiz
+[11:38:10] JARVIS: I didn't understand that.
+[11:38:21] User: aashiq me quiz
+[11:38:25] JARVIS: I didn't understand that.
+[11:38:38] User: boost my brain
+[11:38:42] JARVIS: I didn't understand that.
+[11:39:03] User: in booster
+[11:39:06] JARVIS: I didn't understand that.
+[11:39:16] User: took me quiz
+[11:39:19] JARVIS: I didn't understand that.
+[11:39:33] User: 
+[11:39:49] User: aashiq me
+[11:39:53] JARVIS: I didn't understand that.
+[11:40:07] User: brain booster
+[11:41:42] User: who is tony stark
+[11:41:45] JARVIS: I didn't understand that.
+[11:41:55] User: who is iron man
+[11:41:59] JARVIS: I didn't understand that.
